@@ -1,2 +1,4 @@
-In day 4/23 you supposed to have a layout and template working(background images, etc...)
+?#In day 4/23 you supposed to have a layout and template working(background images, etc...)
 but it's not working there is just a white page with few image stuff, too few.
+
+	~RESOLVED~>the main.css stylesheet(given by the symfony tutorial) was written to pick images at "/web/images/" instead of "/web/legacy/images/".
